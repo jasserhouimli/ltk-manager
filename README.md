@@ -1,1 +1,1 @@
-cc
+# League Toolkit\n\nLeague Toolkit is a project designed to assist League of Legends players with various tools and functionalities.

@@ -1,0 +1,1 @@
+# Main application code\n\ndef main():\n    print('Welcome to League Toolkit!')\n\nif __name__ == '__main__':\n    main()
